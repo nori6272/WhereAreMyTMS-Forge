@@ -1,0 +1,13 @@
+{
+  "item.wherearemytms.blank_hm": "空のひでんマシン",
+  "item.wherearemytms.blank_tm": "空のわざマシン",
+  "block.wherearemytms.tm_machine": "わざおぼえマシン",
+  "description.wherearemytms.requires_printing": "わざおぼえマシンが必要です。",
+  "description.wherearemytms.blank_hm_uses": "一度使うと壊れます",
+  "description.wherearemytms.blank_tm_uses": "繰り返し使えます",
+  "title.wherearemytms.hm": "ひでんマシン: %s",
+  "title.wherearemytms.tm": "わざマシン: %s",
+  "response.wherearemytms.cannot_learn": "%1$s は %2$s を覚えられません。",
+  "response.wherearemytms.already_learned": "%1$s は %2$s を既に覚えています。",
+  "response.wherearemytms.success": "%1$s は %2$s をおぼえた!"
+}
